@@ -1,6 +1,6 @@
 These are the items that must be done to make this game:
 - [x] Create new repository
-- [ ] Initialize html5 environment
+- [x] Initialize html5 environment
 - [ ] Design GUI
 - [ ] Determine if we need a story
 - [ ] Determine if we need to use game scene pattern
