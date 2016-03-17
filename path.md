@@ -1,5 +1,5 @@
 These are the items that must be done to make this game:
-- [ ] Create new repository
+- [x] Create new repository
 - [ ] Initialize html5 environment
 - [ ] Design GUI
 - [ ] Determine if we need a story
