@@ -1,0 +1,13 @@
+These are the items that must be done to make this game:
+- [ ] Create new repository
+- [ ] Initialize html5 environment
+- [ ] Design GUI
+- [ ] Determine if we need a story
+- [ ] Determine if we need to use game scene pattern
+- [ ] Save all game data in the game
+- [ ] Create multiple layout cells
+- [ ] Create instances of other layout cells
+- [ ] Support at least some level of undo
+- [ ] Have a tutorial that will help large % of people get started
+- [ ] Some mechanic should make the game not just about routing of wires
+- [ ] Finish this list
